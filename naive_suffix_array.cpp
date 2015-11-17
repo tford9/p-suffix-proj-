@@ -4,37 +4,14 @@
 #include <algorithm>
 #include <stdlib.h>
 #include <vector>
+#include "p_comp.h"
+#include "suffix_struct.h"
 
 using namespace std;
 
-struct suffix
-{
-    int index;
-    char *suff;
-    std::vector<std::string> p_suff;
-
-};
-int p_cmp(suffix a, suffix b){
-	int which = 1;
-	int length = a.p_suff.size();
-
-	if(length > b.p_suff.size()){
-		length = b.p_suff.size();
-		which = 0;
-	}
-
-	for(int i = 0; i < length; i++){
-		string checking = a.p_suff[i];
-		cout << checking << endl;
-		if((a.p_suff[i]) > (b.p_suff[i])) return 0;
-		else if((a.p_suff[i]) >(b.p_suff[i])) return 1;
-	}
-	return which;
-}
-int cmp(suffix a, suffix b) {return strcmp(a.suff, b.suff) < 0? 1 : 0;}
-
 void suffix_sort(int n, suffix* suffixes){std::sort(suffixes, suffixes+n, cmp);}
 void param_suffix_sort(int n, suffix* suffixes){std::sort(suffixes, suffixes+n, p_cmp);}
+
 char txt[] = "banana$";
 
 string match(char *s,int n){
@@ -61,7 +38,6 @@ void suffix_constructor(char *txt, int n, suffix* suffixes)
         suffixes[i].suff = (txt+i);
         suffixes[i].p_suff.resize(strlen(suffixes[i].suff));
     }
-
 }
 
 void suffix_array(int n, suffix *suffixes, int *SA){
