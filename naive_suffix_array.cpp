@@ -9,13 +9,6 @@
 
 using namespace std;
 
-<<<<<<< HEAD
-void suffix_sort(int n, suffix* suffixes){std::sort(suffixes, suffixes+n, cmp);}
-void param_suffix_sort(int n, suffix* suffixes){std::sort(suffixes, suffixes+n, p_cmp);}
-
-char txt[] = "banana$";
-
-=======
 char txt[] = "1b1ananas$";
 
 struct suffix
@@ -45,7 +38,7 @@ int cmp(suffix a, suffix b) {return strcmp(a.suff, b.suff) < 0? 1 : 0;}
 
 void suffix_sort(int n, suffix* suffixes){std::sort(suffixes, suffixes+n, cmp);}
 void param_suffix_sort(int n, suffix* suffixes){std::sort(suffixes, suffixes+n, p_cmp);}
->>>>>>> temp1
+
 string match(char *s,int n){
     for(int i = 0; i<n;i++){
         if (s[i] == s[n]){
