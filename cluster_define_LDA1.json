@@ -1,0 +1,13 @@
+{
+	"file": "https://raw.githubusercontent.com/tford9/p-suffix-proj-/master/species_inout_t1.csv",
+	"name": "LDA 1",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Name" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 0, "end": 16 }
+	]
+}
