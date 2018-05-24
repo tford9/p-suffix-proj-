@@ -1,80 +1,80 @@
-Label;0;1;2;3;4;5;6;7;8;9;10;11;12;13;14;15
-"""Balsam Fir""";false;false;true;false;false;false;false;false;false;false;false;false;false;false;false;false
-"""Eastern Redcedar""";true;true;true;true;false;true;false;false;false;true;true;false;false;true;false;false
-"""White Spruce""";false;false;true;false;false;false;false;false;false;false;false;false;false;false;false;true
-"""Black Spruce""";false;false;true;false;false;false;false;false;false;false;false;false;false;true;false;false
-"""Red Pine""";false;false;true;false;false;false;true;false;false;true;false;false;true;false;false;false
-"""Eastern White Pine""";false;true;true;true;true;false;true;true;true;false;false;false;false;false;true;false
-"""Northern White Cedar""";false;false;true;true;false;false;false;false;false;false;false;false;false;false;false;false
-"""Red Maple""";true;true;true;false;false;false;false;false;false;false;false;false;false;false;false;false
-"""Sugar Maple""";false;true;true;false;true;true;false;false;false;false;false;false;true;false;true;false
-"""Yellow Birch""";false;true;true;false;true;false;false;false;true;false;false;false;false;false;false;true
-"""Paper Birch""";false;false;true;false;false;false;false;false;false;false;false;false;false;true;false;false
-"""Black Ash""";false;true;true;false;false;false;true;false;false;false;false;false;false;false;false;false
-"""E Hophornbeam""";true;true;true;true;false;false;false;false;false;true;false;false;false;false;false;false
-"""Balsam Poplar""";false;false;true;false;false;false;false;true;false;false;false;false;false;true;false;false
-"""Bigtooth Aspen""";false;true;true;true;true;false;true;false;false;false;false;false;false;false;false;false
-"""Quaking Aspen""";false;false;true;false;false;false;false;false;false;true;false;true;true;false;false;true
-"""Northern Red Oak""";true;true;true;true;false;true;false;false;false;false;false;false;false;false;false;false
-"""Tamarack""";false;false;true;false;false;false;false;false;false;false;false;false;true;true;false;false
-"""Jack Pine""";false;false;true;false;false;false;true;false;false;false;false;false;false;false;false;false
-"""Bur Oak""";false;true;true;true;false;true;false;true;false;false;false;false;true;false;true;false
-"""White Oak""";true;true;true;false;false;false;false;false;false;false;false;true;false;false;false;false
-"""Black Oak""";true;true;true;false;false;false;false;false;false;false;false;false;false;false;false;false
-"""Eastern Hemlock""";false;true;true;false;false;false;false;false;false;false;false;false;false;false;false;false
-"""Striped Maple""";false;false;true;false;false;false;false;true;true;true;false;true;false;false;false;false
-"""Boxelder""";true;true;true;false;false;false;false;false;false;false;false;false;false;false;false;false
-"""Eastern Cottonwood""";false;true;true;false;false;false;true;true;false;false;false;true;false;false;false;false
-"""Am Hornbeam Musclewood""";true;true;true;true;false;false;false;false;false;false;false;false;false;true;false;false
-"""Silver Maple""";false;true;true;true;true;true;true;true;false;false;true;true;true;true;true;false
-"""Black Walnut""";true;true;true;true;false;false;false;false;false;false;false;false;false;false;false;false
-"""Swamp White Oak""";true;true;true;false;false;false;true;true;false;false;false;false;false;false;false;false
-"""American Beech""";true;true;true;true;false;false;true;false;true;false;true;false;false;true;false;false
-"""Black Locust""";true;true;true;true;false;false;false;false;false;false;true;false;false;false;false;false
-"""Red Spruce""";false;false;true;false;false;false;false;false;false;true;false;false;false;true;false;false
-"""Gray Birch""";false;false;true;false;true;false;false;true;false;false;false;false;false;false;false;true
-"""Sweet Birch""";false;true;true;true;false;false;false;true;false;false;false;true;false;false;false;false
-"""Pitch Pine""";false;true;true;true;true;false;false;false;true;false;false;false;false;false;false;false
-"""Scarlet Oak""";true;true;true;true;false;false;false;false;false;false;false;false;false;true;false;false
-"""Chestnut Oak""";false;true;true;true;false;false;false;true;false;false;false;false;false;false;false;false
-"""Honeylocust""";true;true;false;false;false;false;true;true;false;true;true;false;true;false;false;true
-"""Sycamore""";true;true;true;false;false;false;false;false;false;false;false;false;false;false;false;false
-"""Pin Oak""";true;true;true;true;false;true;false;false;false;false;true;false;false;true;false;false
-"""Sassafras""";true;true;true;false;false;false;true;false;false;true;false;false;false;false;false;false
-"""Sourwood""";true;true;false;true;true;true;false;false;false;true;true;false;true;false;false;true
-"""Yellow Poplar""";true;true;true;true;false;false;false;false;false;false;true;false;false;false;false;false
-"""Buckeye Horsechestnut""";true;true;false;false;false;true;false;false;false;true;false;true;true;false;false;false
-"""Cucumbertree""";true;true;false;false;false;false;true;true;false;true;false;false;true;true;false;true
-"""Blackgum""";true;true;true;true;false;true;false;false;false;true;true;false;true;true;false;false
-"""Chinkapin Oak""";true;true;true;true;false;false;false;false;false;false;false;false;false;true;false;false
-"""Sweetgum""";true;true;false;true;true;true;true;true;false;false;false;false;true;true;false;false
-"""Virginia Pine""";false;true;false;true;false;false;true;false;true;false;true;false;false;true;false;true
-"""Common Persimmon""";true;true;false;false;true;false;true;true;true;false;false;false;true;false;false;true
-"""Osage Orange""";false;true;false;false;false;false;true;false;true;true;false;false;false;false;true;true
-"""Blackjack Oak""";true;true;false;true;true;true;true;true;true;false;false;false;false;false;false;false
-"""Post Oak""";true;true;false;true;false;true;true;false;true;false;false;false;false;false;false;false
-"""Shortleaf Pine""";true;true;false;true;true;true;true;false;true;false;false;true;false;false;false;false
-"""Eastern Redbud""";true;true;false;true;true;true;true;true;false;false;false;false;true;false;false;false
-"""Water Tupelo""";true;true;false;false;false;true;false;false;false;false;false;false;false;false;false;false
-"""Loblolly Pine""";true;false;false;false;true;true;false;false;true;false;true;false;false;false;true;false
-"""American Holly""";true;false;false;false;true;true;false;true;true;false;false;true;false;false;true;false
-"""Southern Red Oak""";true;true;false;true;true;true;true;false;true;false;false;true;false;false;false;false
-"""Water Oak""";true;false;false;false;true;true;false;false;true;false;true;false;false;false;true;false
-"""Willow Oak""";true;true;false;false;true;true;false;true;true;false;false;false;false;false;false;false
-"""Pond Pine""";true;false;false;true;false;false;false;false;false;false;false;false;false;false;false;false
-"""Sweetbay""";true;false;false;false;true;true;false;false;true;false;false;true;false;false;false;false
-"""Swamp Chestnut Oak""";true;true;false;false;true;true;true;true;false;false;false;true;false;false;false;false
-"""Shingle Oak""";false;true;false;false;false;false;true;true;false;false;true;true;true;false;false;true
-"""Overcup Oak""";true;false;false;false;false;false;true;false;false;false;false;false;false;false;false;false
-"""Shumard Oak""";true;true;false;false;false;true;true;false;true;false;false;false;false;false;false;false
-"""Laurel Oak""";true;false;false;false;false;false;false;false;false;false;true;false;false;false;true;false
-"""Cherrybark Oak""";true;false;false;false;true;true;true;false;false;false;true;false;false;false;true;false
-"""Slash Pine""";true;false;false;false;false;true;false;false;false;false;false;false;false;false;false;false
-"""Longleaf Pine""";true;false;false;false;false;true;false;false;true;false;false;false;false;false;false;false
-"""Redbay""";true;false;false;false;false;true;false;false;false;false;true;false;false;false;false;false
-"""Turkey Oak""";true;false;false;false;false;true;false;false;false;false;false;false;false;false;false;false
-"""Pondcypress""";true;false;false;false;false;false;false;false;false;false;false;false;false;false;false;false
-"""Baldcypress""";true;false;false;false;false;false;true;false;false;false;true;false;false;false;true;false
-"""Loblolly Bay""";true;false;false;false;false;false;false;false;false;false;false;false;false;false;false;false
-"""Live Oak""";true;false;false;false;false;true;false;false;false;false;false;false;false;false;false;false
-"""Spruce Pine""";true;false;false;false;false;true;false;false;false;false;false;false;false;false;false;false
+Species;c0;c1;c2;c3;c4;c5;c6;c7;c8;c9;c10;c11;c12;c13;c14;c15
+Balsam Fir;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+Eastern Redcedar;1;1;1;1;0;1;0;0;0;1;1;0;0;1;0;0
+White Spruce;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+Black Spruce;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0
+Red Pine;0;0;1;0;0;0;1;0;0;1;0;0;1;0;0;0
+Eastern White Pine;0;1;1;1;1;0;1;1;1;0;0;0;0;0;1;0
+Northern White Cedar;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0
+Red Maple;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+Sugar Maple;0;1;1;0;1;1;0;0;0;0;0;0;1;0;1;0
+Yellow Birch;0;1;1;0;1;0;0;0;1;0;0;0;0;0;0;1
+Paper Birch;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0
+Black Ash;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0
+E Hophornbeam;1;1;1;1;0;0;0;0;0;1;0;0;0;0;0;0
+Balsam Poplar;0;0;1;0;0;0;0;1;0;0;0;0;0;1;0;0
+Bigtooth Aspen;0;1;1;1;1;0;1;0;0;0;0;0;0;0;0;0
+Quaking Aspen;0;0;1;0;0;0;0;0;0;1;0;1;1;0;0;1
+Northern Red Oak;1;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0
+Tamarack;0;0;1;0;0;0;0;0;0;0;0;0;1;1;0;0
+Jack Pine;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0
+Bur Oak;0;1;1;1;0;1;0;1;0;0;0;0;1;0;1;0
+White Oak;1;1;1;0;0;0;0;0;0;0;0;1;0;0;0;0
+Black Oak;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+Eastern Hemlock;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+Striped Maple;0;0;1;0;0;0;0;1;1;1;0;1;0;0;0;0
+Boxelder;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+Eastern Cottonwood;0;1;1;0;0;0;1;1;0;0;0;1;0;0;0;0
+Am Hornbeam Musclewood;1;1;1;1;0;0;0;0;0;0;0;0;0;1;0;0
+Silver Maple;0;1;1;1;1;1;1;1;0;0;1;1;1;1;1;0
+Black Walnut;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0
+Swamp White Oak;1;1;1;0;0;0;1;1;0;0;0;0;0;0;0;0
+American Beech;1;1;1;1;0;0;1;0;1;0;1;0;0;1;0;0
+Black Locust;1;1;1;1;0;0;0;0;0;0;1;0;0;0;0;0
+Red Spruce;0;0;1;0;0;0;0;0;0;1;0;0;0;1;0;0
+Gray Birch;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;1
+Sweet Birch;0;1;1;1;0;0;0;1;0;0;0;1;0;0;0;0
+Pitch Pine;0;1;1;1;1;0;0;0;1;0;0;0;0;0;0;0
+Scarlet Oak;1;1;1;1;0;0;0;0;0;0;0;0;0;1;0;0
+Chestnut Oak;0;1;1;1;0;0;0;1;0;0;0;0;0;0;0;0
+Honeylocust;1;1;0;0;0;0;1;1;0;1;1;0;1;0;0;1
+Sycamore;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+Pin Oak;1;1;1;1;0;1;0;0;0;0;1;0;0;1;0;0
+Sassafras;1;1;1;0;0;0;1;0;0;1;0;0;0;0;0;0
+Sourwood;1;1;0;1;1;1;0;0;0;1;1;0;1;0;0;1
+Yellow Poplar;1;1;1;1;0;0;0;0;0;0;1;0;0;0;0;0
+Buckeye Horsechestnut;1;1;0;0;0;1;0;0;0;1;0;1;1;0;0;0
+Cucumbertree;1;1;0;0;0;0;1;1;0;1;0;0;1;1;0;1
+Blackgum;1;1;1;1;0;1;0;0;0;1;1;0;1;1;0;0
+Chinkapin Oak;1;1;1;1;0;0;0;0;0;0;0;0;0;1;0;0
+Sweetgum;1;1;0;1;1;1;1;1;0;0;0;0;1;1;0;0
+Virginia Pine;0;1;0;1;0;0;1;0;1;0;1;0;0;1;0;1
+Common Persimmon;1;1;0;0;1;0;1;1;1;0;0;0;1;0;0;1
+Osage Orange;0;1;0;0;0;0;1;0;1;1;0;0;0;0;1;1
+Blackjack Oak;1;1;0;1;1;1;1;1;1;0;0;0;0;0;0;0
+Post Oak;1;1;0;1;0;1;1;0;1;0;0;0;0;0;0;0
+Shortleaf Pine;1;1;0;1;1;1;1;0;1;0;0;1;0;0;0;0
+Eastern Redbud;1;1;0;1;1;1;1;1;0;0;0;0;1;0;0;0
+Water Tupelo;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+Loblolly Pine;1;0;0;0;1;1;0;0;1;0;1;0;0;0;1;0
+American Holly;1;0;0;0;1;1;0;1;1;0;0;1;0;0;1;0
+Southern Red Oak;1;1;0;1;1;1;1;0;1;0;0;1;0;0;0;0
+Water Oak;1;0;0;0;1;1;0;0;1;0;1;0;0;0;1;0
+Willow Oak;1;1;0;0;1;1;0;1;1;0;0;0;0;0;0;0
+Pond Pine;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+Sweetbay;1;0;0;0;1;1;0;0;1;0;0;1;0;0;0;0
+Swamp Chestnut Oak;1;1;0;0;1;1;1;1;0;0;0;1;0;0;0;0
+Shingle Oak;0;1;0;0;0;0;1;1;0;0;1;1;1;0;0;1
+Overcup Oak;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0
+Shumard Oak;1;1;0;0;0;1;1;0;1;0;0;0;0;0;0;0
+Laurel Oak;1;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0
+Cherrybark Oak;1;0;0;0;1;1;1;0;0;0;1;0;0;0;1;0
+Slash Pine;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+Longleaf Pine;1;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0
+Redbay;1;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0
+Turkey Oak;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+Pondcypress;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Baldcypress;1;0;0;0;0;0;1;0;0;0;1;0;0;0;1;0
+Loblolly Bay;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Live Oak;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+Spruce Pine;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
