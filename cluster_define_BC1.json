@@ -1,6 +1,6 @@
 {
-	"file": "https://raw.githubusercontent.com/tford9/p-suffix-proj-/master/Cluster_Table.csv",
-	"name": "Test",
+	"file": "https://raw.githubusercontent.com/tford9/p-suffix-proj-/master/Cluster_Table_BC_1.csv",
+	"name": "BC 1",
 	"header": 0,
 	"separator": ";",
 	"skip": 0,

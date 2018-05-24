@@ -1,0 +1,80 @@
+Label;0;1;2;3;4;5;6;7;8;9;10;11;12;13;14;15
+"""Balsam Fir""";false;false;true;false;false;false;false;false;false;false;false;false;false;false;false;false
+"""Eastern Redcedar""";true;true;true;true;false;true;false;false;false;true;true;false;false;true;false;false
+"""White Spruce""";false;false;true;false;false;false;false;false;false;false;false;false;false;false;false;true
+"""Black Spruce""";false;false;true;false;false;false;false;false;false;false;false;false;false;true;false;false
+"""Red Pine""";false;false;true;false;false;false;true;false;false;true;false;false;true;false;false;false
+"""Eastern White Pine""";false;true;true;true;true;false;true;true;true;false;false;false;false;false;true;false
+"""Northern White Cedar""";false;false;true;true;false;false;false;false;false;false;false;false;false;false;false;false
+"""Red Maple""";true;true;true;false;false;false;false;false;false;false;false;false;false;false;false;false
+"""Sugar Maple""";false;true;true;false;true;true;false;false;false;false;false;false;true;false;true;false
+"""Yellow Birch""";false;true;true;false;true;false;false;false;true;false;false;false;false;false;false;true
+"""Paper Birch""";false;false;true;false;false;false;false;false;false;false;false;false;false;true;false;false
+"""Black Ash""";false;true;true;false;false;false;true;false;false;false;false;false;false;false;false;false
+"""E Hophornbeam""";true;true;true;true;false;false;false;false;false;true;false;false;false;false;false;false
+"""Balsam Poplar""";false;false;true;false;false;false;false;true;false;false;false;false;false;true;false;false
+"""Bigtooth Aspen""";false;true;true;true;true;false;true;false;false;false;false;false;false;false;false;false
+"""Quaking Aspen""";false;false;true;false;false;false;false;false;false;true;false;true;true;false;false;true
+"""Northern Red Oak""";true;true;true;true;false;true;false;false;false;false;false;false;false;false;false;false
+"""Tamarack""";false;false;true;false;false;false;false;false;false;false;false;false;true;true;false;false
+"""Jack Pine""";false;false;true;false;false;false;true;false;false;false;false;false;false;false;false;false
+"""Bur Oak""";false;true;true;true;false;true;false;true;false;false;false;false;true;false;true;false
+"""White Oak""";true;true;true;false;false;false;false;false;false;false;false;true;false;false;false;false
+"""Black Oak""";true;true;true;false;false;false;false;false;false;false;false;false;false;false;false;false
+"""Eastern Hemlock""";false;true;true;false;false;false;false;false;false;false;false;false;false;false;false;false
+"""Striped Maple""";false;false;true;false;false;false;false;true;true;true;false;true;false;false;false;false
+"""Boxelder""";true;true;true;false;false;false;false;false;false;false;false;false;false;false;false;false
+"""Eastern Cottonwood""";false;true;true;false;false;false;true;true;false;false;false;true;false;false;false;false
+"""Am Hornbeam Musclewood""";true;true;true;true;false;false;false;false;false;false;false;false;false;true;false;false
+"""Silver Maple""";false;true;true;true;true;true;true;true;false;false;true;true;true;true;true;false
+"""Black Walnut""";true;true;true;true;false;false;false;false;false;false;false;false;false;false;false;false
+"""Swamp White Oak""";true;true;true;false;false;false;true;true;false;false;false;false;false;false;false;false
+"""American Beech""";true;true;true;true;false;false;true;false;true;false;true;false;false;true;false;false
+"""Black Locust""";true;true;true;true;false;false;false;false;false;false;true;false;false;false;false;false
+"""Red Spruce""";false;false;true;false;false;false;false;false;false;true;false;false;false;true;false;false
+"""Gray Birch""";false;false;true;false;true;false;false;true;false;false;false;false;false;false;false;true
+"""Sweet Birch""";false;true;true;true;false;false;false;true;false;false;false;true;false;false;false;false
+"""Pitch Pine""";false;true;true;true;true;false;false;false;true;false;false;false;false;false;false;false
+"""Scarlet Oak""";true;true;true;true;false;false;false;false;false;false;false;false;false;true;false;false
+"""Chestnut Oak""";false;true;true;true;false;false;false;true;false;false;false;false;false;false;false;false
+"""Honeylocust""";true;true;false;false;false;false;true;true;false;true;true;false;true;false;false;true
+"""Sycamore""";true;true;true;false;false;false;false;false;false;false;false;false;false;false;false;false
+"""Pin Oak""";true;true;true;true;false;true;false;false;false;false;true;false;false;true;false;false
+"""Sassafras""";true;true;true;false;false;false;true;false;false;true;false;false;false;false;false;false
+"""Sourwood""";true;true;false;true;true;true;false;false;false;true;true;false;true;false;false;true
+"""Yellow Poplar""";true;true;true;true;false;false;false;false;false;false;true;false;false;false;false;false
+"""Buckeye Horsechestnut""";true;true;false;false;false;true;false;false;false;true;false;true;true;false;false;false
+"""Cucumbertree""";true;true;false;false;false;false;true;true;false;true;false;false;true;true;false;true
+"""Blackgum""";true;true;true;true;false;true;false;false;false;true;true;false;true;true;false;false
+"""Chinkapin Oak""";true;true;true;true;false;false;false;false;false;false;false;false;false;true;false;false
+"""Sweetgum""";true;true;false;true;true;true;true;true;false;false;false;false;true;true;false;false
+"""Virginia Pine""";false;true;false;true;false;false;true;false;true;false;true;false;false;true;false;true
+"""Common Persimmon""";true;true;false;false;true;false;true;true;true;false;false;false;true;false;false;true
+"""Osage Orange""";false;true;false;false;false;false;true;false;true;true;false;false;false;false;true;true
+"""Blackjack Oak""";true;true;false;true;true;true;true;true;true;false;false;false;false;false;false;false
+"""Post Oak""";true;true;false;true;false;true;true;false;true;false;false;false;false;false;false;false
+"""Shortleaf Pine""";true;true;false;true;true;true;true;false;true;false;false;true;false;false;false;false
+"""Eastern Redbud""";true;true;false;true;true;true;true;true;false;false;false;false;true;false;false;false
+"""Water Tupelo""";true;true;false;false;false;true;false;false;false;false;false;false;false;false;false;false
+"""Loblolly Pine""";true;false;false;false;true;true;false;false;true;false;true;false;false;false;true;false
+"""American Holly""";true;false;false;false;true;true;false;true;true;false;false;true;false;false;true;false
+"""Southern Red Oak""";true;true;false;true;true;true;true;false;true;false;false;true;false;false;false;false
+"""Water Oak""";true;false;false;false;true;true;false;false;true;false;true;false;false;false;true;false
+"""Willow Oak""";true;true;false;false;true;true;false;true;true;false;false;false;false;false;false;false
+"""Pond Pine""";true;false;false;true;false;false;false;false;false;false;false;false;false;false;false;false
+"""Sweetbay""";true;false;false;false;true;true;false;false;true;false;false;true;false;false;false;false
+"""Swamp Chestnut Oak""";true;true;false;false;true;true;true;true;false;false;false;true;false;false;false;false
+"""Shingle Oak""";false;true;false;false;false;false;true;true;false;false;true;true;true;false;false;true
+"""Overcup Oak""";true;false;false;false;false;false;true;false;false;false;false;false;false;false;false;false
+"""Shumard Oak""";true;true;false;false;false;true;true;false;true;false;false;false;false;false;false;false
+"""Laurel Oak""";true;false;false;false;false;false;false;false;false;false;true;false;false;false;true;false
+"""Cherrybark Oak""";true;false;false;false;true;true;true;false;false;false;true;false;false;false;true;false
+"""Slash Pine""";true;false;false;false;false;true;false;false;false;false;false;false;false;false;false;false
+"""Longleaf Pine""";true;false;false;false;false;true;false;false;true;false;false;false;false;false;false;false
+"""Redbay""";true;false;false;false;false;true;false;false;false;false;true;false;false;false;false;false
+"""Turkey Oak""";true;false;false;false;false;true;false;false;false;false;false;false;false;false;false;false
+"""Pondcypress""";true;false;false;false;false;false;false;false;false;false;false;false;false;false;false;false
+"""Baldcypress""";true;false;false;false;false;false;true;false;false;false;true;false;false;false;true;false
+"""Loblolly Bay""";true;false;false;false;false;false;false;false;false;false;false;false;false;false;false;false
+"""Live Oak""";true;false;false;false;false;true;false;false;false;false;false;false;false;false;false;false
+"""Spruce Pine""";true;false;false;false;false;true;false;false;false;false;false;false;false;false;false;false
